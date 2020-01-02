@@ -1,6 +1,5 @@
-# Laravel Drag and Drop menu editor like wordpress
-[![Latest Stable Version](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/v/stable)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu) [![Latest Unstable Version](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/v/unstable)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu) [![Total Downloads](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/downloads)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu) [![Monthly Downloads](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/d/monthly)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu)
-
+# Laravel Drag and Drop menu Builder
+[![Latest Stable Version](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/v/stable)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu) [![Latest Unstable Version](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/v/unstable)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu)[![Total Downloads](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/downloads)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu)[![License](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/license)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu)[![composer.lock](https://poser.pugx.org/sumantablog/dragndroplaravelmenu/composerlock)](https://packagist.org/packages/sumantablog/dragndroplaravelmenu)
 forked from https://github.com/lordmacu/wmenu
 ![Laravel drag and drop menu](https://raw.githubusercontent.com/sumantablog/dragndroplaravelmenu/master/screenshot.png)
 
