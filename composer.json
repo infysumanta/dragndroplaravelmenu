@@ -1,7 +1,7 @@
 {
   "name": "sumantablog/dragndroplaravelmenu",
   "description": "Drag And Drop Menu Builder in Laravel",
-  "keywords": ["Laravel Menu", "Drag & Drop Menu", "Menu Builder"],
+  "keywords": ["Laravel Menu", "Drag Drop Menu", "Menu Builder"],
   "authors": [{
       "name": "Sumanta Kabiraj",
       "email": "sumantablog@gmail.com",
